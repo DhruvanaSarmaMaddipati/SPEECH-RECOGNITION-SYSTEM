@@ -25,6 +25,10 @@ I done this through two ways due to lack of hardware components(arduino and leds
 -when i say light on it displays Light is ON
 -when i say light on it displays Light is OFF
 
+output image:
+
+![Image](https://github.com/user-attachments/assets/bd1b648a-8366-42de-b974-85ed4921236a)
+
 If we have arduino board we can write arduino code in arduino IDE and can interface this python code to the board and can observe the output.
 
 
@@ -34,3 +38,5 @@ If we have arduino board we can write arduino code in arduino IDE and can interf
 -wrote code accoringlly
 -by giving fan on ,fan off,light off,light on in serial monitor we can observe that RED(light) and BLUE(Fan) LED's will ON and OFF accordingly.
 
+output image:
+![Image](https://github.com/user-attachments/assets/5e06ef29-c700-420d-b5e2-731850287bf4)
